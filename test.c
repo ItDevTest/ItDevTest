@@ -6,4 +6,6 @@ int test()
 //comment    
 //test1
 //comment
+
+//test2
 }
