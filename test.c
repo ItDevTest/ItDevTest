@@ -1,6 +1,8 @@
 int test()
 {
-    //s
+    //
+    // s
+    //
     return 0;
     
 }
